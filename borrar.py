@@ -4,3 +4,7 @@ mi_blue = 5000
 
 print(f"Mi pauperrimo sueldo {mi_sueldo}")
 print(f"Mi grone seria de {mi_blue}")
+
+clave = 5 + 6
+
+print("La clave seria {clave}")
